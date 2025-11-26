@@ -1,0 +1,99 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "title": "2023 Aston Martin DB11 V8 Coupe", 
+            "description": "Mileage: 3,439, Exterior Color: Hyper Red, Interior Color: Spicy Red, Engine: 4.0L V8, Transmission: 8-Speed Automatic", 
+            "price" : "$169,995",
+            "image" : "/media/listing_images/Aston_Martin DB11 V8.jpg"
+        },
+
+        {
+            "id": 2,
+            "title": "2025 Aston Martin Vantage Coupe", 
+            "description": "Mileage: 5,778, Exterior Color: Cosmopolitan Yellow, Interior Color: Onyx Black, Engine: V8, Transmission: ZF 8-Speed Automatic", 
+            "price" : "$219,995",
+            "image" : "/media/listing_images/Aston-Martin-Vantage-Coupe-1751990746.jpg"
+        },
+
+        {
+            "id": 3,
+            "title": "2025 Aston Martin Vantage Coupe", 
+            "description": "Mileage: 2,727, Exterior Color: Cosmos Orange, Interior Color: Dark Knight, Engine: V8, Transmission: ZF-8 Speed Dual Clutch", 
+            "price" : "$219,995",
+            "image" : "/media/listing_images/Aston-Martin-Vantage-Coupe-1754585798.jpg"
+        },
+
+        {
+            "id": 4,
+            "title": "2024 Lamborghini Revuelto", 
+            "description": "Mileage: 4,015, Exterior Color: Giallo Inti, Interior Color: Nero Ade, Engine: V12, Transmission: 8 Speed Dual Clutch", 
+            "price" : "$665,995",
+            "image" : "/media/listing_images/Lamborghini-Revuelto-1760974364.jpg"
+        },
+
+         {
+            "id": 5,
+            "title": "2024 Lamborghini Revuelto", 
+            "description": "Mileage: 2,853, Exterior Color: Nero Nesmesis, Interior Color: Nero Ade, Engine: V12, Transmission: 8 Speed Dual Clutch", 
+            "price" : "$675,995",
+            "image" : "/media/listing_images/2024-Lamborghini-Revuelto-1761662610.jpg"
+        },
+
+        {
+            "id": 6,
+            "title": "1990 BMW E30 M3 Motorsport", 
+            "description": "Mileage: 120,995, Exterior Color: Cinnabar Red, Interior Color: Natural, Engine: 2.3L I4 FI, Transmission: 5 Speed Manual", 
+            "price" : "$169,995",
+            "image" : "/media/listing_images/1990-BMW-E30-M3-Motorsport-International-Limited-Edition-1750801124.jpg"
+        },
+
+        {
+            "id": 7,
+            "title": "2023 Porsche 911 Turbo S", 
+            "description": "Mileage: 303, Exterior Color: Gentian Blue Metallic, Interior Color: Beige/Tan, Engine: 3.0L H6 Turbocharged, Transmission: 8-Speed (PDK)", 
+            "price" : "$SOLD",
+            "image" : "/media/listing_images/2023-Porsche-911-Turbo-S-1693420736.jpg"
+        },
+
+        {
+            "id": 8,
+            "title": "2024 Porsche 718 Cayman GT4 RS", 
+            "description": "Mileage: 87, Exterior Color: Guards Red, Interior Color: Black With Artic Grey, Engine: 4.0L H6 DOHC 24V, Transmission: 7-Speed (PDK)", 
+            "price" : "$219,995",
+            "image" : "/media/listing_images/2024-Porsche-718-Cayman-GT4-RS-1762886249.jpg"
+        },
+
+        {
+            "id": 9,
+            "title": "2022 Porsche 911 GT3", 
+            "description": "Mileage: 2,709, Exterior Color: Racing Yellow, Interior Color: Black W/GT Silver, Engine: 4.0L H6 DOHC 24V, Transmission: 7-Speed (PDK)", 
+            "price" : "$284,995",
+            "image" : "/media/listing_images/2022-Porsche-911-GT3-1764089810.jpg"
+        },
+
+        {
+            "id": 10,
+            "title": "2022 Rolls-Royce Cullinan", 
+            "description": "Mileage: 9,474, Exterior Color: Tempest Grey, Interior Color: Mandarin, Engine: 6.7L DOHC, Transmission: 8-Speed Automatic", 
+            "price" : "$349,995",
+            "image" : "/media/listing_images/2022-Rolls-Royce-Cullinan-1753976158.jpg"
+        },
+
+        {
+            "id": 11,
+            "title": "2023 Bentley Continental GTC Speed", 
+            "description": "Mileage: 1,826, Exterior Color: Ice, Interior Color: Imperial Blue, Engine: 6.0L W12, Transmission: 8-Speed Automatic Clutch", 
+            "price" : "$299,995",
+            "image" : "/media/listing_images/2023-Bentley-Continental-GTC-Speed-1727795522.jpg"
+        },
+
+        {
+            "id": 12,
+            "title": "2021 Mercedes G-Class G63 AMG", 
+            "description": "Mileage: 9,938, Exterior Color: Designo Night Black, Interior Color: Designo Classic Red, Engine: V8, Transmission: 9-Speed Automatic", 
+            "price" : "$199,995",
+            "image" : "/media/listing_images/2021-Mercedes-Benz-G-Class-G-63-AMG-1762884282.jpg"
+        } 
+    ]
+}
