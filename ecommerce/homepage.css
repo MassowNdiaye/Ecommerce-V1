@@ -195,8 +195,8 @@ button.button {
 
 .center {
   position: absolute;
-  top: 50%;
-  left: 55%;
+  top: 40%;
+  left: 50%;
   transform: translate(-50%, -50%);
   text-align: center;
 }
@@ -204,10 +204,12 @@ button.button {
 .center h1 {
   color: var(--accent);
   font-size: 1.5rem;
+  width: 300px;
 }
 
 .center p {
   font-weight: 200;
+  width: 300px;
   color: var(--bg-color);
 }
 
