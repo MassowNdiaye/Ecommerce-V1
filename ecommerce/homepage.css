@@ -215,6 +215,7 @@ button.button {
 
 .btn-yellow {
   background-color: var(--accent);
+  color: var(--text-main);
   font-size: 14px;
   padding: 7px 15px;
   border: none;
